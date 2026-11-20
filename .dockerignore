@@ -1,0 +1,11 @@
+state/
+*.db
+*.db-wal
+*.db-shm
+**/node_modules/
+.git/
+.github/
+logs/
+.env
+.env.*
+deploy/vm/bootstrap-key.txt

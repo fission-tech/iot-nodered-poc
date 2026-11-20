@@ -1,0 +1,13 @@
+node_modules/
+state/
+logs/
+.env
+.env.*
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+deploy/vm/bootstrap-key.txt
+.idea/
+.vscode/
+*.user
